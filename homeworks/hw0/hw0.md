@@ -1,6 +1,6 @@
 ---
 layout: default
-img:
+img: maze.png
 img_link:
 caption: 
 title: Pre-reqs
@@ -51,9 +51,12 @@ Do not zip or compress your files. Submit them as individual files. Part 1 will 
 5. Submit your PDF and the notebook file on Gradescope: "HW 0 - Part 2 PDF"
 
 
-## Part 1: Search and Value Iteration (50pts)
+## HW 0 - Part 1: Search and Value Iteration (50pts)
 
-![maze](/assets/img/hw0/maze.png)
+<div class="container-fluid">
+<div class="row"><div class="col-lg-6" >
+<img src="img/maze.png" style="height: 100%; width: 100%; max-width: 500px">
+</div></div></div>
 
 ### Introduction
 
@@ -282,11 +285,17 @@ python autograder.py -q q5
 
 Value Iteration computes the value function $V_k(s)$ for each state $s$, which represents the maximum expected reward achievable starting from that state. The value update equation is:
 
-![value-iteration-eq](/assets/img/hw0/VI_eq.png)
+<div class="container-fluid">
+<div class="row"><div class="col-lg-6" >
+<img src="img/VI_eq.png" style="height: 100%; width: 100%; max-width: 800px">
+</div></div></div>
 
 Write a value iteration agent in `ValueIterationAgent`, which has been partially specified for you in `valueIterationAgents.py`. Your value iteration agent is an offline planner in the Pacman grid world, with (x, y) coordinates. The MDP (Markov Decision Process) state is the exact board configuration facing Pacman (see `PacmanMDP` class in `valueIterationAgents.py`).
 
-![pacman-value-iteration](/assets/img/hw0/panman_value_iteration.png)
+<div class="container-fluid">
+<div class="row"><div class="col-lg-6" >
+<img src="img/panman_value_iteration.png" style="height: 100%; width: 100%; max-width: 1000px">
+</div></div></div>
 
 `ValueIterationAgent` takes an MDP on construction and runs value iteration for the specified number of iterations before the constructor returns (see the `__init__` function of `ValueIterationAgent`).
 
@@ -314,7 +323,10 @@ python pacman.py -l tinySimple -p ValueIterationAgent -i 100
 
 Hint: On the tinySimple layout, running value iteration for 10 iterations should give you this output:
 
-![tinySimple_eg](/assets/img/hw0/tinySimple_iter10.png)
+<div class="container-fluid">
+<div class="row"><div class="col-lg-6" >
+<img src="img/tinySimple_iter10.png" style="height: 100%; width: 100%; max-width: 500px">
+</div></div></div>
 
 ### Acknowledgment
 This assignment incorporates many elements from the CS 188 course materials developed at UC Berkeley.

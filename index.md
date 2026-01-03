@@ -80,7 +80,7 @@ Students should be familiar with basic CS concepts such as Search (A*, Monte Car
 #### Recommended Preparation for Those Without Required Knowledge
 Undergrad Intro to AI/RL, and grad level Intro to Deep Learning / NLP types of courses are highly recommended
 
-#### Website [pearls-lab.github.io/ai-agents-course](http://pearls-lab.github.io/ai-agents-course-WI26)
+#### Website [pearls-lab.github.io/ai-agents-course-WI26](http://pearls-lab.github.io/ai-agents-course-WI26)
 
 #### Instructors: [Prithviraj Ammanabrolu](https://prithvirajva.com)
 
