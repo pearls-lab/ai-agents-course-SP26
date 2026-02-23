@@ -80,16 +80,14 @@ Students should be familiar with basic CS concepts such as Search (A*, Monte Car
 #### Recommended Preparation for Those Without Required Knowledge
 Undergrad Intro to AI/RL, and grad level Intro to Deep Learning / NLP types of courses are highly recommended
 
-#### Website [pearls-lab.github.io/ai-agents-course-WI26](http://pearls-lab.github.io/ai-agents-course-WI26)
+#### Website [pearls-lab.github.io/ai-agents-course-WI26](http://pearls-lab.github.io/ai-agents-course-SP26)
 
 #### Instructors: [Prithviraj Ammanabrolu](https://prithvirajva.com)
 
-#### TAs: [Bosung Kim](https://bosung.github.io), [Christopher Cui](https://christopherzc.github.io)
+#### TAs: TBD
 
 #### Time and Place
-- Winter 2026, Tuesdays & Thursdays from 3:30 to 4:50 pm PT at CENTR 214
-- First day of class is January 06, 2026
-- Last day of class is March 12, 2026
+- Spring 2026: TBD
 
 Office Hours (see the [Staff]({{ site.baseurl }}/staff) page for office hour locations)
 
