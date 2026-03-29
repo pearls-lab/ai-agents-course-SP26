@@ -14,5 +14,5 @@
 
 STUDENT_CODE_DEFAULT = 'searchAgents.py,search.py,valueIterationAgents.py'
 PROJECT_TEST_CLASSES = 'HW0TestClasses.py'
-PROJECT_NAME = 'UCSD CSE 291 G - HW0 Part 1'
+PROJECT_NAME = 'UCSD CSE 190 - Intro to Deep RL - HW0 Part 1'
 BONUS_PIC = False
